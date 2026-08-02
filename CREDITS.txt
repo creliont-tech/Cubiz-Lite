@@ -1,0 +1,40 @@
+Cubiz Lite
+==========
+
+Above-water renderer and project structure
+------------------------------------------
+Kute v1.0.0-crn.1 by TheCMK
+Copyright (c) 2025 TheCMK
+Licensed under the MIT License.
+The complete license is preserved in /LICENSE and /licenses/Kute/LICENSE.
+
+Water and underwater renderer
+-----------------------------
+Glimmer v1.5.2 by Josh Britain (jbritain)
+Copyright (c) 2024 Josh Britain (jbritain)
+https://jbritain.net
+Licensed under the MIT License.
+The complete license is preserved in /licenses/Glimmer/LICENSE.
+
+Glimmer's procedural wave implementation identifies the underlying
+"Very fast procedural ocean" method by afl_ext:
+https://www.shadertoy.com/view/MdXyzX
+Licensed under the MIT License.
+
+Glimmer's screen-space reflection source credits Belmu for the ray-march basis
+and DrDesten for its depth-lenience expression:
+https://gist.github.com/BelmuTM/af0fe99ee5aab386b149a53775fe94a3
+
+Previously evaluated source
+---------------------------
+Mellow Shader v3.3 by TheCMK was studied during the original Cubiz Lite
+prototype. The later Glimmer migration removes all Mellow water and underwater
+code from the active renderer. Its original MIT/Apache licenses and edit notice
+remain preserved in /licenses/Mellow for complete project provenance.
+
+Integration
+-----------
+Cubiz Lite adapts Glimmer's water algorithms and caustics resource to Kute's
+GLSL 1.20 scene/depth pipeline. Glimmer remains the sole source of water and
+underwater behavior; Mellow code and the previous Kute water renderer are not
+included in this build.
