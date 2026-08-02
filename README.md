@@ -6,11 +6,11 @@ The project combines a clean lighting pipeline, realistic water, atmospheric eff
 
 ## Screenshots
 
-![](image/Screenshot%202026-08-01%20154415.png)
+![](images/Screenshot%202026-08-01%20154311.png)
 
-![](image/Screenshot%202026-08-01%20154311.png)
+![](images/Screenshot%202026-08-01%20154415.png)
 
-![](image/Screenshot%202026-08-02%20093816.png)
+![](images/Screenshot%202026-08-02%20093816.png)
 
 ## Features
 
