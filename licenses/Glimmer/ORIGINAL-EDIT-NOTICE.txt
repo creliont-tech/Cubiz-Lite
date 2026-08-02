@@ -1,0 +1,11 @@
+Cubiz Lite contains a modified integration of the water-related portions of
+Glimmer v1.5.2.
+
+The port retains Glimmer's procedural wave normals, optional water parallax,
+absorption and scattering coefficients, Fresnel behavior, fast/SSR reflection
+model, refraction approach, caustic lookup resource, and water transition
+intent. These systems were adapted from Glimmer's GLSL 4.30 pipeline to Kute's
+GLSL 1.20 buffers and Kute-provided lighting/sky inputs.
+
+No Glimmer branding, icon, screenshots, or unrelated renderer systems are
+included.
