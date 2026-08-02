@@ -59,3 +59,5 @@ for complete attribution and license information.
 Cubiz Lite includes software distributed under multiple licenses.
 
 See the included license files for details.
+
+![](image/Screenshot%202026-08-01%20154415.png)
