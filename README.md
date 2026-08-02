@@ -4,6 +4,14 @@ Cubiz Lite is a lightweight Minecraft shader pack designed to improve the game's
 
 The project combines a clean lighting pipeline, realistic water, atmospheric effects, and a simple, customizable experience without aiming for photorealism.
 
+## Screenshots
+
+![](image/Screenshot%202026-08-01%20154415.png)
+
+![](image/Screenshot%202026-08-01%20154311.png)
+
+![](image/Screenshot%202026-08-02%20093816.png)
+
 ## Features
 
 - Dynamic lighting
